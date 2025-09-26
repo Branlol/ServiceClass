@@ -14,7 +14,7 @@ public class Train extends TransportService{
         this.setWagonNumber(wagonNumber);
     }
 
-    public String getSeatType() {
+    public String getSeatType() { //0
         return seatType;
     }
 
